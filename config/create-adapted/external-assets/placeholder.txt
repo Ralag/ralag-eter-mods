@@ -1,0 +1,2 @@
+Este archivo es un placeholder para mantener la carpeta del mod.
+Cuando subas el archivo real, reemplaza este texto por el .jar final.
